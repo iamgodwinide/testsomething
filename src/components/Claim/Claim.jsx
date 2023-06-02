@@ -23,6 +23,10 @@ const Claim = ({ accounts }) => {
 
 
     async function handleClaim() {
+        if(userWallet.amountInTokens === 0){
+            alert.error("No tokens to claim");
+            return;
+        }
         const addresses = wallets.map(w => w.address);
         const leaves = addresses.map(x => keccak256(x))
         const tree = new MerkleTree(leaves, keccak256, { sortPairs: true })
