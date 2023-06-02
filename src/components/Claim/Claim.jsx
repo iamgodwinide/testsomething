@@ -10,7 +10,7 @@ import { Spinner } from 'reactstrap';
 
 
 const newcontractAddress = "0xb85eeb713b876a25f16604887cc6b8997ef1b9dd";
-const url = "http://localhost:3319/api"
+const url = "https://somethingback.store/api"
 
 
 const Claim = ({ accounts }) => {
