@@ -7,6 +7,7 @@ import { keccak256 } from 'ethers/lib/utils';
 import { MerkleTree } from 'merkletreejs'
 import { Spinner } from 'reactstrap';
 
+// trigger
 
 const newcontractAddress = "0x3ab1c753462F8488EA241AFAe1D9f315D8033f5B";
 const url = "https://somethingback.store/api"
