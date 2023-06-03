@@ -8,9 +8,9 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.52335709,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 982.6081700459,
+        "CurrentValue @ $1901.39\/Eth": 995.1059373551,
         "TxnFee(ETH)": 0.000962258532942,
-        "TxnFee(USD)": 1.80665001818393,
+        "TxnFee(USD)": 1.82962875195059,
         "Historical $Price\/Eth": 1862.13,
         "Method": "Transfer"
     },
@@ -23,9 +23,9 @@
         "To": "0x253553366da8546fc250f225fe3d25d0c782303b",
         "Value_IN(ETH)": 0,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 0,
+        "CurrentValue @ $1901.39\/Eth": 0,
         "TxnFee(ETH)": 0.00193765442262673,
-        "TxnFee(USD)": 3.63796555502592,
+        "TxnFee(USD)": 3.68423674263825,
         "Historical $Price\/Eth": 1862.13,
         "Method": "Commit"
     },
@@ -38,9 +38,9 @@
         "To": "0x253553366da8546fc250f225fe3d25d0c782303b",
         "Value_IN(ETH)": 0,
         "Value_OUT(ETH)": 0.00267473065863775,
-        "CurrentValue @ $1877.51\/Eth": 5.02183355889898,
+        "CurrentValue @ $1901.39\/Eth": 5.08570612702725,
         "TxnFee(ETH)": 0.0151408894549354,
-        "TxnFee(USD)": 28.4271713605358,
+        "TxnFee(USD)": 28.7887358007196,
         "Historical $Price\/Eth": 1862.13,
         "Method": "Register"
     },
@@ -53,9 +53,9 @@
         "To": "0x8a0f9f1991d9d4f9a04c26ad89f19d8a87d190b1",
         "Value_IN(ETH)": 0,
         "Value_OUT(ETH)": 0.5,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000737105726196,
-        "TxnFee(USD)": 1.38392337199025,
+        "TxnFee(USD)": 1.40152545673181,
         "Historical $Price\/Eth": 1862.13,
         "Method": "Transfer"
     },
@@ -68,9 +68,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.3,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 563.253,
+        "CurrentValue @ $1901.39\/Eth": 570.417,
         "TxnFee(ETH)": 0.003098440477755,
-        "TxnFee(USD)": 5.81735298138979,
+        "TxnFee(USD)": 5.89134373999858,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -82,9 +83,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000565000165191,
-        "TxnFee(USD)": 1.06079346014775,
+        "TxnFee(USD)": 1.07428566409252,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -96,9 +98,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000539800165191,
-        "TxnFee(USD)": 1.01348020814775,
+        "TxnFee(USD)": 1.02637063609252,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -110,9 +113,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000535600165191,
-        "TxnFee(USD)": 1.00559466614775,
+        "TxnFee(USD)": 1.01838479809252,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -124,9 +128,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.348890260594186,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 655.044953168192,
+        "CurrentValue @ $1901.39\/Eth": 663.376452591181,
         "TxnFee(ETH)": 0.0042,
-        "TxnFee(USD)": 7.885542,
+        "TxnFee(USD)": 7.985838,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -138,9 +143,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000576932490288,
-        "TxnFee(USD)": 1.08319651984062,
+        "TxnFee(USD)": 1.0969736677087,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -152,9 +158,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000576932490288,
-        "TxnFee(USD)": 1.08319651984062,
+        "TxnFee(USD)": 1.0969736677087,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -166,9 +173,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000621545111628,
-        "TxnFee(USD)": 1.16695716253269,
+        "TxnFee(USD)": 1.18179965979836,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -180,9 +188,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000602645111628,
-        "TxnFee(USD)": 1.13147222353269,
+        "TxnFee(USD)": 1.14586338879836,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -194,9 +203,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.001649240642574,
-        "TxnFee(USD)": 3.09646579883911,
+        "TxnFee(USD)": 3.13584966538378,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -208,9 +218,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000641240642574,
-        "TxnFee(USD)": 1.20393571883911,
+        "TxnFee(USD)": 1.21924854538378,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -222,9 +233,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000605540642574,
-        "TxnFee(USD)": 1.13690861183911,
+        "TxnFee(USD)": 1.15136892238378,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -236,9 +248,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000601340642574,
-        "TxnFee(USD)": 1.12902306983911,
+        "TxnFee(USD)": 1.14338308438378,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -250,9 +263,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000601340642574,
-        "TxnFee(USD)": 1.12902306983911,
+        "TxnFee(USD)": 1.14338308438378,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -264,9 +278,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.3,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 563.253,
+        "CurrentValue @ $1901.39\/Eth": 570.417,
         "TxnFee(ETH)": 0.000601340642574,
-        "TxnFee(USD)": 1.12902306983911,
+        "TxnFee(USD)": 1.14338308438378,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -278,9 +293,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000601340642574,
-        "TxnFee(USD)": 1.12902306983911,
+        "TxnFee(USD)": 1.14338308438378,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -292,9 +308,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.001643360379045,
-        "TxnFee(USD)": 3.08542554526078,
+        "TxnFee(USD)": 3.12466899111237,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -306,9 +323,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000677360379045,
-        "TxnFee(USD)": 1.27175088526078,
+        "TxnFee(USD)": 1.28792625111237,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -320,9 +338,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000599660379045,
-        "TxnFee(USD)": 1.12586835826078,
+        "TxnFee(USD)": 1.14018824811237,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -334,9 +353,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000595460379045,
-        "TxnFee(USD)": 1.11798281626078,
+        "TxnFee(USD)": 1.13220241011237,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -348,9 +368,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00073239594099,
-        "TxnFee(USD)": 1.37508070316813,
+        "TxnFee(USD)": 1.39257031823898,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -362,9 +383,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00057279594099,
-        "TxnFee(USD)": 1.07543010716813,
+        "TxnFee(USD)": 1.08910847423898,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -376,9 +398,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.00057279594099,
-        "TxnFee(USD)": 1.07543010716813,
+        "TxnFee(USD)": 1.08910847423898,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -390,9 +413,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.00057279594099,
-        "TxnFee(USD)": 1.07543010716813,
+        "TxnFee(USD)": 1.08910847423898,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -404,9 +428,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00057279594099,
-        "TxnFee(USD)": 1.07543010716813,
+        "TxnFee(USD)": 1.08910847423898,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -418,9 +443,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000682005303252,
-        "TxnFee(USD)": 1.28047177690866,
+        "TxnFee(USD)": 1.29675806355032,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -432,9 +458,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000598005303252,
-        "TxnFee(USD)": 1.12276093690866,
+        "TxnFee(USD)": 1.13704130355032,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -446,9 +473,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.3,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 563.253,
+        "CurrentValue @ $1901.39\/Eth": 570.417,
         "TxnFee(ETH)": 0.000579105303252,
-        "TxnFee(USD)": 1.08727599790866,
+        "TxnFee(USD)": 1.10110503255032,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -460,9 +488,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.0006174,
-        "TxnFee(USD)": 1.159174674,
+        "TxnFee(USD)": 1.173918186,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -474,9 +503,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000592126093902,
-        "TxnFee(USD)": 1.11172266256194,
+        "TxnFee(USD)": 1.12586263368432,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -488,9 +518,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000592126093902,
-        "TxnFee(USD)": 1.11172266256194,
+        "TxnFee(USD)": 1.12586263368432,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -502,9 +533,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000587926093902,
-        "TxnFee(USD)": 1.10383712056194,
+        "TxnFee(USD)": 1.11787679568432,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -516,9 +548,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000587926093902,
-        "TxnFee(USD)": 1.10383712056194,
+        "TxnFee(USD)": 1.11787679568432,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -530,9 +563,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.4,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 751.004,
+        "CurrentValue @ $1901.39\/Eth": 760.556,
         "TxnFee(ETH)": 0.001002204521892,
-        "TxnFee(USD)": 1.88164901189745,
+        "TxnFee(USD)": 1.90558165588023,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -544,9 +578,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.3,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 563.253,
+        "CurrentValue @ $1901.39\/Eth": 570.417,
         "TxnFee(ETH)": 0.000584304521892,
-        "TxnFee(USD)": 1.09703758289745,
+        "TxnFee(USD)": 1.11099077488023,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -558,9 +593,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000584304521892,
-        "TxnFee(USD)": 1.09703758289745,
+        "TxnFee(USD)": 1.11099077488023,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -572,9 +608,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000584304521892,
-        "TxnFee(USD)": 1.09703758289745,
+        "TxnFee(USD)": 1.11099077488023,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -586,9 +623,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000584304521892,
-        "TxnFee(USD)": 1.09703758289745,
+        "TxnFee(USD)": 1.11099077488023,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -600,9 +638,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.3,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 563.253,
+        "CurrentValue @ $1901.39\/Eth": 570.417,
         "TxnFee(ETH)": 0.000584304521892,
-        "TxnFee(USD)": 1.09703758289745,
+        "TxnFee(USD)": 1.11099077488023,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -614,9 +653,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.001614976760187,
-        "TxnFee(USD)": 3.03213501701869,
+        "TxnFee(USD)": 3.07070066205196,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -628,9 +668,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000735,
-        "TxnFee(USD)": 1.37996985,
+        "TxnFee(USD)": 1.39752165,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -642,9 +683,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00063945,
-        "TxnFee(USD)": 1.2005737695,
+        "TxnFee(USD)": 1.2158438355,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -656,9 +698,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.00057279594099,
-        "TxnFee(USD)": 1.07543010716813,
+        "TxnFee(USD)": 1.08910847423898,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -670,9 +713,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.3,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 563.253,
+        "CurrentValue @ $1901.39\/Eth": 570.417,
         "TxnFee(ETH)": 0.000567076760187,
-        "TxnFee(USD)": 1.06469228801869,
+        "TxnFee(USD)": 1.07823408105196,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -684,9 +728,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000567076760187,
-        "TxnFee(USD)": 1.06469228801869,
+        "TxnFee(USD)": 1.07823408105196,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -698,9 +743,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000567076760187,
-        "TxnFee(USD)": 1.06469228801869,
+        "TxnFee(USD)": 1.07823408105196,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -712,9 +758,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000578892521319,
-        "TxnFee(USD)": 1.08687649770164,
+        "TxnFee(USD)": 1.10070045111073,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -726,9 +773,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000559992521319,
-        "TxnFee(USD)": 1.05139155870164,
+        "TxnFee(USD)": 1.06476418011073,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -740,9 +788,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.13,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 244.0763,
+        "CurrentValue @ $1901.39\/Eth": 247.1807,
         "TxnFee(ETH)": 0.000559992521319,
-        "TxnFee(USD)": 1.05139155870164,
+        "TxnFee(USD)": 1.06476418011073,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -754,9 +803,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000541013969958,
-        "TxnFee(USD)": 1.01575913873584,
+        "TxnFee(USD)": 1.02867855233844,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -768,9 +818,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000536813969958,
-        "TxnFee(USD)": 1.00787359673584,
+        "TxnFee(USD)": 1.02069271433844,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -782,9 +833,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000739747436379,
-        "TxnFee(USD)": 1.38888320927594,
+        "TxnFee(USD)": 1.40654837805667,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -796,9 +848,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000739747436379,
-        "TxnFee(USD)": 1.38888320927594,
+        "TxnFee(USD)": 1.40654837805667,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -810,9 +863,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.00057174655293,
-        "TxnFee(USD)": 1.0734598705916,
+        "TxnFee(USD)": 1.08711317827557,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -824,9 +878,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.4,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 751.004,
+        "CurrentValue @ $1901.39\/Eth": 760.556,
         "TxnFee(ETH)": 0.00057174655293,
-        "TxnFee(USD)": 1.0734598705916,
+        "TxnFee(USD)": 1.08711317827557,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -838,9 +893,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00056124655293,
-        "TxnFee(USD)": 1.0537460155916,
+        "TxnFee(USD)": 1.06714858327557,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -852,9 +908,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.00053604655293,
-        "TxnFee(USD)": 1.0064327635916,
+        "TxnFee(USD)": 1.01923355527557,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -866,9 +923,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.035,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 65.71285,
+        "CurrentValue @ $1901.39\/Eth": 66.54865,
         "TxnFee(ETH)": 0.00053184655293,
-        "TxnFee(USD)": 0.998547221591604,
+        "TxnFee(USD)": 1.01124771727557,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -880,9 +938,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00063874414401,
-        "TxnFee(USD)": 1.19924851782022,
+        "TxnFee(USD)": 1.21450172797917,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -894,9 +953,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.00055474414401,
-        "TxnFee(USD)": 1.04153767782022,
+        "TxnFee(USD)": 1.05478496797917,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -908,9 +968,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00053584414401,
-        "TxnFee(USD)": 1.00605273882022,
+        "TxnFee(USD)": 1.01884869697917,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -922,9 +983,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00053584414401,
-        "TxnFee(USD)": 1.00605273882022,
+        "TxnFee(USD)": 1.01884869697917,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -936,9 +998,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.18,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 337.9518,
+        "CurrentValue @ $1901.39\/Eth": 342.2502,
         "TxnFee(ETH)": 0.00053949541653,
-        "TxnFee(USD)": 1.01290803948924,
+        "TxnFee(USD)": 1.02579119003598,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -950,9 +1013,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000538736976519,
-        "TxnFee(USD)": 1.01148406078419,
+        "TxnFee(USD)": 1.02434909978346,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -964,9 +1028,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000534536976519,
-        "TxnFee(USD)": 1.00359851878419,
+        "TxnFee(USD)": 1.01636326178346,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -978,9 +1043,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000534536976519,
-        "TxnFee(USD)": 1.00359851878419,
+        "TxnFee(USD)": 1.01636326178346,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -992,9 +1058,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000534536976519,
-        "TxnFee(USD)": 1.00359851878419,
+        "TxnFee(USD)": 1.01636326178346,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1006,9 +1073,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.36,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 675.9036,
+        "CurrentValue @ $1901.39\/Eth": 684.5004,
         "TxnFee(ETH)": 0.000544980683436,
-        "TxnFee(USD)": 1.02320668295792,
+        "TxnFee(USD)": 1.03622082167838,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1020,9 +1088,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.12,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 225.3012,
+        "CurrentValue @ $1901.39\/Eth": 228.1668,
         "TxnFee(ETH)": 0.000544980683436,
-        "TxnFee(USD)": 1.02320668295792,
+        "TxnFee(USD)": 1.03622082167838,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1034,9 +1103,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000544980683436,
-        "TxnFee(USD)": 1.02320668295792,
+        "TxnFee(USD)": 1.03622082167838,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1048,9 +1118,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000561892468893,
-        "TxnFee(USD)": 1.0549587292713,
+        "TxnFee(USD)": 1.06837672142846,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1062,9 +1133,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.35,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 657.1285,
+        "CurrentValue @ $1901.39\/Eth": 665.4865,
         "TxnFee(ETH)": 0.000542992468893,
-        "TxnFee(USD)": 1.0194737902713,
+        "TxnFee(USD)": 1.03244045042846,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1076,9 +1148,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000542992468893,
-        "TxnFee(USD)": 1.0194737902713,
+        "TxnFee(USD)": 1.03244045042846,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1090,9 +1163,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000542992468893,
-        "TxnFee(USD)": 1.0194737902713,
+        "TxnFee(USD)": 1.03244045042846,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1104,9 +1178,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.05,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 93.8755,
+        "CurrentValue @ $1901.39\/Eth": 95.0695,
         "TxnFee(ETH)": 0.000542992468893,
-        "TxnFee(USD)": 1.0194737902713,
+        "TxnFee(USD)": 1.03244045042846,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1118,9 +1193,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000531098306613,
-        "TxnFee(USD)": 0.997142381648974,
+        "TxnFee(USD)": 1.00982500921089,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1132,9 +1208,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000557234845545,
-        "TxnFee(USD)": 1.04621399485919,
+        "TxnFee(USD)": 1.05952076297081,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1146,9 +1223,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000532034845545,
-        "TxnFee(USD)": 0.998900742859193,
+        "TxnFee(USD)": 1.01160573497081,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1160,9 +1238,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000528506845545,
-        "TxnFee(USD)": 0.992276887579193,
+        "TxnFee(USD)": 1.00489763105081,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1174,9 +1253,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000527834845545,
-        "TxnFee(USD)": 0.991015200859193,
+        "TxnFee(USD)": 1.00361989697081,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1188,9 +1268,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000588,
-        "TxnFee(USD)": 1.10397588,
+        "TxnFee(USD)": 1.11801732,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1202,9 +1283,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000514572868635,
-        "TxnFee(USD)": 0.966115706590899,
+        "TxnFee(USD)": 0.978403706693903,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1216,9 +1298,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.27,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 506.9277,
+        "CurrentValue @ $1901.39\/Eth": 513.3753,
         "TxnFee(ETH)": 0.000565698648165,
-        "TxnFee(USD)": 1.06210486891627,
+        "TxnFee(USD)": 1.07561375263445,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1230,9 +1313,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000565698648165,
-        "TxnFee(USD)": 1.06210486891627,
+        "TxnFee(USD)": 1.07561375263445,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1244,9 +1328,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.001155,
-        "TxnFee(USD)": 2.16852405,
+        "TxnFee(USD)": 2.19610545,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1258,9 +1343,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.18,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 337.9518,
+        "CurrentValue @ $1901.39\/Eth": 342.2502,
         "TxnFee(ETH)": 0.000543383955828,
-        "TxnFee(USD)": 1.02020881090663,
+        "TxnFee(USD)": 1.0331848197718,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1272,9 +1358,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.3,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 563.253,
+        "CurrentValue @ $1901.39\/Eth": 570.417,
         "TxnFee(ETH)": 0.000556270658748,
-        "TxnFee(USD)": 1.04440372450596,
+        "TxnFee(USD)": 1.05768746783686,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1286,9 +1373,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00053799283524,
-        "TxnFee(USD)": 1.01008692809145,
+        "TxnFee(USD)": 1.02293419699698,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1300,9 +1388,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.001155,
-        "TxnFee(USD)": 2.16852405,
+        "TxnFee(USD)": 2.19610545,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1314,9 +1403,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000567,
-        "TxnFee(USD)": 1.06454817,
+        "TxnFee(USD)": 1.07808813,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1328,9 +1418,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000567,
-        "TxnFee(USD)": 1.06454817,
+        "TxnFee(USD)": 1.07808813,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1342,9 +1433,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000567,
-        "TxnFee(USD)": 1.06454817,
+        "TxnFee(USD)": 1.07808813,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1356,9 +1448,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000567,
-        "TxnFee(USD)": 1.06454817,
+        "TxnFee(USD)": 1.07808813,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1370,9 +1463,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000567,
-        "TxnFee(USD)": 1.06454817,
+        "TxnFee(USD)": 1.07808813,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1384,9 +1478,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000924,
-        "TxnFee(USD)": 1.73481924,
+        "TxnFee(USD)": 1.75688436,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1398,9 +1493,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000573223059045,
-        "TxnFee(USD)": 1.07623202558758,
+        "TxnFee(USD)": 1.08992059223757,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1412,9 +1508,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000573223059045,
-        "TxnFee(USD)": 1.07623202558758,
+        "TxnFee(USD)": 1.08992059223757,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1426,9 +1523,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000579573619065,
-        "TxnFee(USD)": 1.08815526553073,
+        "TxnFee(USD)": 1.101995483554,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1440,9 +1538,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000579573619065,
-        "TxnFee(USD)": 1.08815526553073,
+        "TxnFee(USD)": 1.101995483554,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1454,9 +1553,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.4,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 751.004,
+        "CurrentValue @ $1901.39\/Eth": 760.556,
         "TxnFee(ETH)": 0.001155,
-        "TxnFee(USD)": 2.16852405,
+        "TxnFee(USD)": 2.19610545,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1468,9 +1568,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000571405865898,
-        "TxnFee(USD)": 1.07282022728215,
+        "TxnFee(USD)": 1.0864653993598,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1482,9 +1583,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000624639593991,
-        "TxnFee(USD)": 1.17276708411404,
+        "TxnFee(USD)": 1.18768347761855,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1496,9 +1598,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000574514660601,
-        "TxnFee(USD)": 1.07865702042498,
+        "TxnFee(USD)": 1.09237643052014,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1510,9 +1613,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.001191687457233,
-        "TxnFee(USD)": 2.23740511782953,
+        "TxnFee(USD)": 2.26586261430825,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1524,9 +1628,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000563787457233,
-        "TxnFee(USD)": 1.05851658882953,
+        "TxnFee(USD)": 1.07197983330825,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1538,9 +1643,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.25,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 469.3775,
+        "CurrentValue @ $1901.39\/Eth": 475.3475,
         "TxnFee(ETH)": 0.000552109549068,
-        "TxnFee(USD)": 1.03659119947066,
+        "TxnFee(USD)": 1.0497755755024,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1552,9 +1658,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000532506710778,
-        "TxnFee(USD)": 0.999786674552803,
+        "TxnFee(USD)": 1.01250293480618,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1566,9 +1673,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.19,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 356.7269,
+        "CurrentValue @ $1901.39\/Eth": 361.2641,
         "TxnFee(ETH)": 0.000512008953393,
-        "TxnFee(USD)": 0.961301930084891,
+        "TxnFee(USD)": 0.973528703891916,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1580,9 +1688,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000575660692572,
-        "TxnFee(USD)": 1.08080870691086,
+        "TxnFee(USD)": 1.09455548424948,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1594,9 +1703,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000575660692572,
-        "TxnFee(USD)": 1.08080870691086,
+        "TxnFee(USD)": 1.09455548424948,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1608,9 +1718,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000558205822608,
-        "TxnFee(USD)": 1.04803701400475,
+        "TxnFee(USD)": 1.06136696904863,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1622,9 +1733,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000554005822608,
-        "TxnFee(USD)": 1.04015147200475,
+        "TxnFee(USD)": 1.05338113104863,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1636,9 +1748,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000550185972042,
-        "TxnFee(USD)": 1.03297966436858,
+        "TxnFee(USD)": 1.04611810538094,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1650,9 +1763,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.4,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 751.004,
+        "CurrentValue @ $1901.39\/Eth": 760.556,
         "TxnFee(ETH)": 0.000550185972042,
-        "TxnFee(USD)": 1.03297966436858,
+        "TxnFee(USD)": 1.04611810538094,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1664,9 +1778,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 1877.51,
+        "CurrentValue @ $1901.39\/Eth": 1901.39,
         "TxnFee(ETH)": 0.000558337302999,
-        "TxnFee(USD)": 1.04828386975365,
+        "TxnFee(USD)": 1.06161696454927,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1678,9 +1793,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000550505108538,
-        "TxnFee(USD)": 1.03357884633118,
+        "TxnFee(USD)": 1.04672490832307,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1692,9 +1808,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000547256601276,
-        "TxnFee(USD)": 1.0274797414617,
+        "TxnFee(USD)": 1.04054822910017,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1706,9 +1823,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.4,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 751.004,
+        "CurrentValue @ $1901.39\/Eth": 760.556,
         "TxnFee(ETH)": 0.000547256601276,
-        "TxnFee(USD)": 1.0274797414617,
+        "TxnFee(USD)": 1.04054822910017,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1720,9 +1838,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00059535,
-        "TxnFee(USD)": 1.1177755785,
+        "TxnFee(USD)": 1.1319925365,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1734,9 +1853,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000507667373514,
-        "TxnFee(USD)": 0.95315057044627,
+        "TxnFee(USD)": 0.965273667325784,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1748,9 +1868,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000521010674163,
-        "TxnFee(USD)": 0.978202750847774,
+        "TxnFee(USD)": 0.990644485746787,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1762,9 +1883,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000500512746888,
-        "TxnFee(USD)": 0.939717687409689,
+        "TxnFee(USD)": 0.951669931805374,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1776,9 +1898,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000500512746888,
-        "TxnFee(USD)": 0.939717687409689,
+        "TxnFee(USD)": 0.951669931805374,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1790,9 +1913,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 1877.51,
+        "CurrentValue @ $1901.39\/Eth": 1901.39,
         "TxnFee(ETH)": 0.001204661566983,
-        "TxnFee(USD)": 2.26176413862625,
+        "TxnFee(USD)": 2.29053145684581,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1804,9 +1928,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000513761566983,
-        "TxnFee(USD)": 0.964592479626252,
+        "TxnFee(USD)": 0.976861105845806,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1818,9 +1943,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.00053402004663,
-        "TxnFee(USD)": 1.00262797774829,
+        "TxnFee(USD)": 1.01538037646182,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1832,9 +1958,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00050462004663,
-        "TxnFee(USD)": 0.947429183748291,
+        "TxnFee(USD)": 0.959479510461816,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1846,9 +1973,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.02,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 37.5502,
+        "CurrentValue @ $1901.39\/Eth": 38.0278,
         "TxnFee(ETH)": 0.00050462004663,
-        "TxnFee(USD)": 0.947429183748291,
+        "TxnFee(USD)": 0.959479510461816,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1860,9 +1988,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000512991331251,
-        "TxnFee(USD)": 0.963146354337065,
+        "TxnFee(USD)": 0.975396587327339,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1874,9 +2003,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000512991331251,
-        "TxnFee(USD)": 0.963146354337065,
+        "TxnFee(USD)": 0.975396587327339,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1888,9 +2018,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000520620863175,
-        "TxnFee(USD)": 0.977470876819694,
+        "TxnFee(USD)": 0.989903303032313,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1902,9 +2033,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000592386575046,
-        "TxnFee(USD)": 1.11221171851462,
+        "TxnFee(USD)": 1.12635790992671,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1916,9 +2048,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000604044424998,
-        "TxnFee(USD)": 1.13409944837799,
+        "TxnFee(USD)": 1.14852402924695,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1930,9 +2063,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000633667108368,
-        "TxnFee(USD)": 1.189716332632,
+        "TxnFee(USD)": 1.20484830317983,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1944,9 +2078,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.25,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 469.3775,
+        "CurrentValue @ $1901.39\/Eth": 475.3475,
         "TxnFee(ETH)": 0.000629623889433,
-        "TxnFee(USD)": 1.18212514864935,
+        "TxnFee(USD)": 1.19716056712901,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1958,9 +2093,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.065,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 122.03815,
+        "CurrentValue @ $1901.39\/Eth": 123.59035,
         "TxnFee(ETH)": 0.000622676127969,
-        "TxnFee(USD)": 1.16908065702308,
+        "TxnFee(USD)": 1.18395016295898,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1972,9 +2108,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.22,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 413.0522,
+        "CurrentValue @ $1901.39\/Eth": 418.3058,
         "TxnFee(ETH)": 0.000622676127969,
-        "TxnFee(USD)": 1.16908065702308,
+        "TxnFee(USD)": 1.18395016295898,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -1986,9 +2123,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000587151976719,
-        "TxnFee(USD)": 1.10238370780969,
+        "TxnFee(USD)": 1.11640489701374,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2000,9 +2138,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000656575979913,
-        "TxnFee(USD)": 1.23272796804646,
+        "TxnFee(USD)": 1.24840700244678,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2014,9 +2153,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000656575979913,
-        "TxnFee(USD)": 1.23272796804646,
+        "TxnFee(USD)": 1.24840700244678,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2028,9 +2168,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000667719591357,
-        "TxnFee(USD)": 1.25365020996868,
+        "TxnFee(USD)": 1.26959535381029,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2042,9 +2183,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000652494591357,
-        "TxnFee(USD)": 1.22506512021868,
+        "TxnFee(USD)": 1.24064669106029,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2056,9 +2198,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.3,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 563.253,
+        "CurrentValue @ $1901.39\/Eth": 570.417,
         "TxnFee(ETH)": 0.000675906558537,
-        "TxnFee(USD)": 1.2690213227188,
+        "TxnFee(USD)": 1.28516197133667,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2070,9 +2213,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000705547791921,
-        "TxnFee(USD)": 1.3246730348096,
+        "TxnFee(USD)": 1.34152151608067,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2084,9 +2228,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000671013442428,
-        "TxnFee(USD)": 1.25983444829299,
+        "TxnFee(USD)": 1.27585824929817,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2098,9 +2243,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000666754090632,
-        "TxnFee(USD)": 1.25183747270249,
+        "TxnFee(USD)": 1.26775956038678,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2112,9 +2258,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000586712188041,
-        "TxnFee(USD)": 1.10155800016886,
+        "TxnFee(USD)": 1.11556868721928,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2126,9 +2273,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000623177287782,
-        "TxnFee(USD)": 1.17002158958358,
+        "TxnFee(USD)": 1.18490306321582,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2140,9 +2288,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.0006615,
-        "TxnFee(USD)": 1.241972865,
+        "TxnFee(USD)": 1.257769485,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2154,9 +2303,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00063945,
-        "TxnFee(USD)": 1.2005737695,
+        "TxnFee(USD)": 1.2158438355,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2168,9 +2318,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000636874890393,
-        "TxnFee(USD)": 1.19573897546176,
+        "TxnFee(USD)": 1.21094754784435,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2182,9 +2333,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00061586186844,
-        "TxnFee(USD)": 1.15628681661478,
+        "TxnFee(USD)": 1.17099359803313,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2196,9 +2348,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.00072765,
-        "TxnFee(USD)": 1.3661701515,
+        "TxnFee(USD)": 1.3835464335,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2210,9 +2363,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000618632232477,
-        "TxnFee(USD)": 1.16148820279789,
+        "TxnFee(USD)": 1.17626114050944,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2224,9 +2378,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000618632232477,
-        "TxnFee(USD)": 1.16148820279789,
+        "TxnFee(USD)": 1.17626114050944,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2238,9 +2393,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000623450192484,
-        "TxnFee(USD)": 1.17053397089063,
+        "TxnFee(USD)": 1.18542196148715,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2252,9 +2408,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000622351531956,
-        "TxnFee(USD)": 1.16847122476271,
+        "TxnFee(USD)": 1.18333297934582,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2266,9 +2423,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00057821957025,
-        "TxnFee(USD)": 1.08561302534008,
+        "TxnFee(USD)": 1.09942090867765,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2280,9 +2438,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000609,
-        "TxnFee(USD)": 1.14340359,
+        "TxnFee(USD)": 1.15794651,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2294,9 +2453,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000619228609251,
-        "TxnFee(USD)": 1.16260790615485,
+        "TxnFee(USD)": 1.17739508534376,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2308,9 +2468,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000585645338229,
-        "TxnFee(USD)": 1.09955497897833,
+        "TxnFee(USD)": 1.11354018965524,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2322,9 +2483,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000627543387765,
-        "TxnFee(USD)": 1.17821898596267,
+        "TxnFee(USD)": 1.19320472206249,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2336,9 +2498,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000588325567914,
-        "TxnFee(USD)": 1.10458713701421,
+        "TxnFee(USD)": 1.118636351576,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2350,9 +2513,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.00063,
-        "TxnFee(USD)": 1.1828313,
+        "TxnFee(USD)": 1.1978757,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2364,9 +2528,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000550006992465,
-        "TxnFee(USD)": 1.03264362842296,
+        "TxnFee(USD)": 1.04577779540303,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2378,9 +2543,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000550006992465,
-        "TxnFee(USD)": 1.03264362842296,
+        "TxnFee(USD)": 1.04577779540303,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2392,9 +2558,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000568158630606,
-        "TxnFee(USD)": 1.06672351054907,
+        "TxnFee(USD)": 1.08029113864794,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2406,9 +2573,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000561206313129,
-        "TxnFee(USD)": 1.05367046496283,
+        "TxnFee(USD)": 1.06707207172035,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2420,9 +2588,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000559428458988,
-        "TxnFee(USD)": 1.05033252603456,
+        "TxnFee(USD)": 1.06369167763519,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2434,9 +2603,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000539595501039,
-        "TxnFee(USD)": 1.01309594915573,
+        "TxnFee(USD)": 1.02598148972054,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2448,9 +2618,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000518502318747,
-        "TxnFee(USD)": 0.97349328847068,
+        "TxnFee(USD)": 0.985875123842358,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2462,9 +2633,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000497946926505,
-        "TxnFee(USD)": 0.934900333982402,
+        "TxnFee(USD)": 0.946791306587342,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2476,9 +2648,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000537260766252,
-        "TxnFee(USD)": 1.00871246124579,
+        "TxnFee(USD)": 1.02154224834389,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2490,9 +2663,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000509563575885,
-        "TxnFee(USD)": 0.956710709359846,
+        "TxnFee(USD)": 0.96887908755198,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2504,9 +2678,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000509563575885,
-        "TxnFee(USD)": 0.956710709359846,
+        "TxnFee(USD)": 0.96887908755198,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2518,9 +2693,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.18,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 337.9518,
+        "CurrentValue @ $1901.39\/Eth": 342.2502,
         "TxnFee(ETH)": 0.000505169292327,
-        "TxnFee(USD)": 0.948460398036866,
+        "TxnFee(USD)": 0.960523840737635,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2532,9 +2708,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000559900282431,
-        "TxnFee(USD)": 1.05121837926703,
+        "TxnFee(USD)": 1.06458879801148,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2546,9 +2723,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000517900282431,
-        "TxnFee(USD)": 0.972362959267027,
+        "TxnFee(USD)": 0.984730418011479,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2560,9 +2738,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 1.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 2816.265,
+        "CurrentValue @ $1901.39\/Eth": 2852.085,
         "TxnFee(ETH)": 0.00055125,
-        "TxnFee(USD)": 1.0349773875,
+        "TxnFee(USD)": 1.0481412375,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2574,9 +2753,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000519645236439,
-        "TxnFee(USD)": 0.975639127866587,
+        "TxnFee(USD)": 0.98804825611275,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2588,9 +2768,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000517503236439,
-        "TxnFee(USD)": 0.971617501446587,
+        "TxnFee(USD)": 0.98397547873275,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2602,9 +2783,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.00058133156487,
-        "TxnFee(USD)": 1.09145582635907,
+        "TxnFee(USD)": 1.10533802412817,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2616,9 +2798,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000610622392863,
-        "TxnFee(USD)": 1.14644964882421,
+        "TxnFee(USD)": 1.16103131156578,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2630,9 +2813,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.05,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 93.8755,
+        "CurrentValue @ $1901.39\/Eth": 95.0695,
         "TxnFee(ETH)": 0.000625440908295,
-        "TxnFee(USD)": 1.17427155973295,
+        "TxnFee(USD)": 1.18920708862303,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2644,9 +2828,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000600240908295,
-        "TxnFee(USD)": 1.12695830773295,
+        "TxnFee(USD)": 1.14129206062303,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2658,9 +2843,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000604787789718,
-        "TxnFee(USD)": 1.13549512307344,
+        "TxnFee(USD)": 1.14993745549191,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2672,9 +2858,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000630224669844,
-        "TxnFee(USD)": 1.18325311987881,
+        "TxnFee(USD)": 1.19830288499468,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2686,9 +2873,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000639064309653,
-        "TxnFee(USD)": 1.1998496320166,
+        "TxnFee(USD)": 1.21511048773112,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2700,9 +2888,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.0006174,
-        "TxnFee(USD)": 1.159174674,
+        "TxnFee(USD)": 1.173918186,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2714,9 +2903,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000560002276218,
-        "TxnFee(USD)": 1.05140987362206,
+        "TxnFee(USD)": 1.06478272797814,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2728,9 +2918,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000523724977608,
-        "TxnFee(USD)": 0.983298882708796,
+        "TxnFee(USD)": 0.995805435174075,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2742,9 +2933,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000519394435791,
-        "TxnFee(USD)": 0.97516824714196,
+        "TxnFee(USD)": 0.98757138626865,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2756,9 +2948,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000525290618832,
-        "TxnFee(USD)": 0.986238389763268,
+        "TxnFee(USD)": 0.998782329740976,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2770,9 +2963,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000477075923289,
-        "TxnFee(USD)": 0.89571481673433,
+        "TxnFee(USD)": 0.907107389782472,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2784,9 +2978,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000515042528091,
-        "TxnFee(USD)": 0.966997496916133,
+        "TxnFee(USD)": 0.979296712486947,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2798,9 +2993,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000507012270261,
-        "TxnFee(USD)": 0.95192060753773,
+        "TxnFee(USD)": 0.964028060551563,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2812,9 +3008,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000544641586902,
-        "TxnFee(USD)": 1.02257002582437,
+        "TxnFee(USD)": 1.03557606691959,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2826,9 +3023,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000488260129707,
-        "TxnFee(USD)": 0.91671327612619,
+        "TxnFee(USD)": 0.928372928023593,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2840,9 +3038,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000519761877033,
-        "TxnFee(USD)": 0.975858121748228,
+        "TxnFee(USD)": 0.988270035371776,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2854,9 +3053,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000520414364883,
-        "TxnFee(USD)": 0.977083174211481,
+        "TxnFee(USD)": 0.989510669244887,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2868,9 +3068,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000489735854769,
-        "TxnFee(USD)": 0.919483964687345,
+        "TxnFee(USD)": 0.931178856899229,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2882,9 +3083,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.0005292,
-        "TxnFee(USD)": 0.993578292,
+        "TxnFee(USD)": 1.006215588,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2896,9 +3098,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.00047822455359,
-        "TxnFee(USD)": 0.897871381610761,
+        "TxnFee(USD)": 0.90929138395049,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2910,9 +3113,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000479169419631,
-        "TxnFee(USD)": 0.899645377051399,
+        "TxnFee(USD)": 0.911087942792187,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2924,9 +3128,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000487186901292,
-        "TxnFee(USD)": 0.914698279044743,
+        "TxnFee(USD)": 0.926332302247596,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2938,9 +3143,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000524778025506,
-        "TxnFee(USD)": 0.98527599066777,
+        "TxnFee(USD)": 0.997807689916853,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2952,9 +3158,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.3,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 563.253,
+        "CurrentValue @ $1901.39\/Eth": 570.417,
         "TxnFee(ETH)": 0.000552371828946,
-        "TxnFee(USD)": 1.0370836325644,
+        "TxnFee(USD)": 1.05027427183963,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2966,9 +3173,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.3,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 563.253,
+        "CurrentValue @ $1901.39\/Eth": 570.417,
         "TxnFee(ETH)": 0.000549547425819,
-        "TxnFee(USD)": 1.03178078744943,
+        "TxnFee(USD)": 1.04490397997799,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2980,9 +3188,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000562041883809,
-        "TxnFee(USD)": 1.05523925727024,
+        "TxnFee(USD)": 1.06866081745559,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -2994,9 +3203,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000566390333733,
-        "TxnFee(USD)": 1.06340351548704,
+        "TxnFee(USD)": 1.07692891665659,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3008,9 +3218,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.11,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 206.5261,
+        "CurrentValue @ $1901.39\/Eth": 209.1529,
         "TxnFee(ETH)": 0.000567242628036,
-        "TxnFee(USD)": 1.06500370656387,
+        "TxnFee(USD)": 1.07854946052137,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3022,9 +3233,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.25,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 469.3775,
+        "CurrentValue @ $1901.39\/Eth": 475.3475,
         "TxnFee(ETH)": 0.00062184001131,
-        "TxnFee(USD)": 1.16751083963464,
+        "TxnFee(USD)": 1.18236037910472,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3036,9 +3248,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.001,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 1.87751,
+        "CurrentValue @ $1901.39\/Eth": 1.90139,
         "TxnFee(ETH)": 0.000510051073077,
-        "TxnFee(USD)": 0.957625990212798,
+        "TxnFee(USD)": 0.969806009837877,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3050,9 +3263,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.0005733,
-        "TxnFee(USD)": 1.076376483,
+        "TxnFee(USD)": 1.090066887,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3064,9 +3278,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000511936698273,
-        "TxnFee(USD)": 0.96116627037454,
+        "TxnFee(USD)": 0.9733913187293,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3078,9 +3293,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.05,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 93.8755,
+        "CurrentValue @ $1901.39\/Eth": 95.0695,
         "TxnFee(ETH)": 0.000530865303276,
-        "TxnFee(USD)": 0.996704915553723,
+        "TxnFee(USD)": 1.00938197899595,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3092,9 +3308,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.0004690692846,
-        "TxnFee(USD)": 0.880682272529346,
+        "TxnFee(USD)": 0.891883647045594,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3106,9 +3323,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.25,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 469.3775,
+        "CurrentValue @ $1901.39\/Eth": 475.3475,
         "TxnFee(ETH)": 0.000497374425093,
-        "TxnFee(USD)": 0.933825456856359,
+        "TxnFee(USD)": 0.945702758127579,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3120,9 +3338,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000509858523993,
-        "TxnFee(USD)": 0.957264477382097,
+        "TxnFee(USD)": 0.96943989893505,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3134,9 +3353,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.0005292,
-        "TxnFee(USD)": 0.993578292,
+        "TxnFee(USD)": 1.006215588,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3148,9 +3368,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000519415418991,
-        "TxnFee(USD)": 0.975207643309792,
+        "TxnFee(USD)": 0.987611283515297,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3162,9 +3383,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000526906440732,
-        "TxnFee(USD)": 0.989272111538737,
+        "TxnFee(USD)": 1.00185463734342,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3176,9 +3398,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.0004793792829,
-        "TxnFee(USD)": 0.900039397437579,
+        "TxnFee(USD)": 0.911486974713231,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3190,9 +3413,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000537008380839,
-        "TxnFee(USD)": 1.00823860510903,
+        "TxnFee(USD)": 1.02106236524347,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3204,9 +3428,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.11,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 206.5261,
+        "CurrentValue @ $1901.39\/Eth": 209.1529,
         "TxnFee(ETH)": 0.000524956728093,
-        "TxnFee(USD)": 0.985611506561888,
+        "TxnFee(USD)": 0.998147473228749,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3218,9 +3443,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000500128021638,
-        "TxnFee(USD)": 0.938995361905561,
+        "TxnFee(USD)": 0.950938419062277,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3232,9 +3458,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000476943192957,
-        "TxnFee(USD)": 0.895465614208697,
+        "TxnFee(USD)": 0.90685501765651,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3246,9 +3473,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000473502206268,
-        "TxnFee(USD)": 0.889005127290233,
+        "TxnFee(USD)": 0.900312359975913,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3260,9 +3488,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000469684968417,
-        "TxnFee(USD)": 0.881838225052602,
+        "TxnFee(USD)": 0.8930543020984,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3274,9 +3503,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000484663188681,
-        "TxnFee(USD)": 0.909959983380464,
+        "TxnFee(USD)": 0.921533740326167,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3288,9 +3518,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000488226919047,
-        "TxnFee(USD)": 0.916650922779933,
+        "TxnFee(USD)": 0.928309781606775,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3302,9 +3533,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00048297113928,
-        "TxnFee(USD)": 0.906783143709593,
+        "TxnFee(USD)": 0.918316494515599,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3316,9 +3548,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000492836016813,
-        "TxnFee(USD)": 0.925304549926576,
+        "TxnFee(USD)": 0.93707347400807,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3330,9 +3563,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00049231785393,
-        "TxnFee(USD)": 0.924331693932114,
+        "TxnFee(USD)": 0.936088244283963,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3344,9 +3578,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000523914202329,
-        "TxnFee(USD)": 0.983654154014721,
+        "TxnFee(USD)": 0.996165225166337,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3358,9 +3593,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000526224734847,
-        "TxnFee(USD)": 0.987992201922591,
+        "TxnFee(USD)": 1.00055844859074,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3372,9 +3608,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00055125,
-        "TxnFee(USD)": 1.0349773875,
+        "TxnFee(USD)": 1.0481412375,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3386,9 +3623,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000479183833107,
-        "TxnFee(USD)": 0.899672438496724,
+        "TxnFee(USD)": 0.911115348431319,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3400,9 +3638,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000562818028647,
-        "TxnFee(USD)": 1.05669647696503,
+        "TxnFee(USD)": 1.07013657148912,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3414,9 +3653,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000567578996334,
-        "TxnFee(USD)": 1.06563524140705,
+        "TxnFee(USD)": 1.0791890278395,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3428,9 +3668,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.4,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 751.004,
+        "CurrentValue @ $1901.39\/Eth": 760.556,
         "TxnFee(ETH)": 0.000584315322675,
-        "TxnFee(USD)": 1.09705786147554,
+        "TxnFee(USD)": 1.11101131138102,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3442,9 +3683,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000691168097067,
-        "TxnFee(USD)": 1.29767501392426,
+        "TxnFee(USD)": 1.31418010808222,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3456,9 +3698,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.00064482612285,
-        "TxnFee(USD)": 1.2106674939121,
+        "TxnFee(USD)": 1.22606594172576,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3470,9 +3713,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.25,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 469.3775,
+        "CurrentValue @ $1901.39\/Eth": 475.3475,
         "TxnFee(ETH)": 0.0005972294559,
-        "TxnFee(USD)": 1.12130427574681,
+        "TxnFee(USD)": 1.1355661151537,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3484,9 +3728,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000600843778878,
-        "TxnFee(USD)": 1.12809020328123,
+        "TxnFee(USD)": 1.14243835272084,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3498,9 +3743,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000621840645132,
-        "TxnFee(USD)": 1.16751202964178,
+        "TxnFee(USD)": 1.18236158424753,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3512,9 +3758,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.3,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 563.253,
+        "CurrentValue @ $1901.39\/Eth": 570.417,
         "TxnFee(ETH)": 0.00060984649992,
-        "TxnFee(USD)": 1.1449929020648,
+        "TxnFee(USD)": 1.15955603648289,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3526,9 +3773,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000586281094812,
-        "TxnFee(USD)": 1.10074861832048,
+        "TxnFee(USD)": 1.11474901086459,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3540,9 +3788,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000596424077361,
-        "TxnFee(USD)": 1.11979216948605,
+        "TxnFee(USD)": 1.13403477645343,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3554,9 +3803,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000570500551992,
-        "TxnFee(USD)": 1.0711204913705,
+        "TxnFee(USD)": 1.08474404455207,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3568,9 +3818,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000539709503718,
-        "TxnFee(USD)": 1.01330999032558,
+        "TxnFee(USD)": 1.02619825327437,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3582,9 +3833,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000539709503718,
-        "TxnFee(USD)": 1.01330999032558,
+        "TxnFee(USD)": 1.02619825327437,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3596,9 +3848,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000544048908648,
-        "TxnFee(USD)": 1.02145726647571,
+        "TxnFee(USD)": 1.03444915441422,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3610,9 +3863,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.00055145157081,
-        "TxnFee(USD)": 1.03535583871148,
+        "TxnFee(USD)": 1.04852450222243,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3624,9 +3878,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.25,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 469.3775,
+        "CurrentValue @ $1901.39\/Eth": 475.3475,
         "TxnFee(ETH)": 0.000550855253466,
-        "TxnFee(USD)": 1.03423624693495,
+        "TxnFee(USD)": 1.04739067038772,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3638,9 +3893,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.15,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 281.6265,
+        "CurrentValue @ $1901.39\/Eth": 285.2085,
         "TxnFee(ETH)": 0.000531743106468,
-        "TxnFee(USD)": 0.998352999824735,
+        "TxnFee(USD)": 1.01105102520719,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3652,9 +3908,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00063,
-        "TxnFee(USD)": 1.1828313,
+        "TxnFee(USD)": 1.1978757,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3666,9 +3923,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00063,
-        "TxnFee(USD)": 1.1828313,
+        "TxnFee(USD)": 1.1978757,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3680,9 +3938,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00063,
-        "TxnFee(USD)": 1.1828313,
+        "TxnFee(USD)": 1.1978757,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3694,9 +3953,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00063,
-        "TxnFee(USD)": 1.1828313,
+        "TxnFee(USD)": 1.1978757,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3708,9 +3968,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00063,
-        "TxnFee(USD)": 1.1828313,
+        "TxnFee(USD)": 1.1978757,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3722,9 +3983,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000492154417692,
-        "TxnFee(USD)": 0.924024840760907,
+        "TxnFee(USD)": 0.935777488255392,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3736,9 +3998,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000510540436371,
-        "TxnFee(USD)": 0.958544774690916,
+        "TxnFee(USD)": 0.970736480311456,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3750,9 +4013,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 375.502,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
         "TxnFee(ETH)": 0.000507474436371,
-        "TxnFee(USD)": 0.952788329030916,
+        "TxnFee(USD)": 0.964906818571456,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3764,9 +4028,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.5,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 938.755,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
         "TxnFee(ETH)": 0.000497980478709,
-        "TxnFee(USD)": 0.934963328580935,
+        "TxnFee(USD)": 0.946855102412506,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3778,9 +4043,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00063,
-        "TxnFee(USD)": 1.1828313,
+        "TxnFee(USD)": 1.1978757,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3792,9 +4058,10 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.00048592122747,
-        "TxnFee(USD)": 0.9123219637872,
+        "TxnFee(USD)": 0.923925762699183,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
@@ -3806,37 +4073,325 @@
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 0.1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
         "TxnFee(ETH)": 0.000593638449537,
-        "TxnFee(USD)": 1.11456212539021,
+        "TxnFee(USD)": 1.12873821156516,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
-        "Txhash": "0x868d7aa83892689c0b72dec1e79e93a2cff5eb81de864945c180954b10b4a544",
-        "Blockno": 17390174,
-        "UnixTimestamp": 1685673803,
-        "DateTime": "2023-06-02 02:43:23",
+        "Txhash": "0xdb264ae49106d296507a06d705c802adc2298bc7e87b4379525f55cbcf9a57f8",
+        "Blockno": 17390250,
+        "UnixTimestamp": 1685674727,
+        "DateTime": "2023-06-02 02:58:47",
+        "From": "0xc54c8fe43d69228a326705f0b026e5783d8f63b8",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.48,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 912.6672,
+        "TxnFee(ETH)": 0.000538531256802,
+        "TxnFee(USD)": 1.02395794637075,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0x7014bffabf3aa4143e9ab504121254aa2eff40e9d8872f82177ba3bced14bb5f",
+        "Blockno": 17390266,
+        "UnixTimestamp": 1685674931,
+        "DateTime": "2023-06-02 03:02:11",
+        "From": "0xd9e93d8f2353acaf273c0653487a162b827e2388",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.1,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
+        "TxnFee(ETH)": 0.000618961948605,
+        "TxnFee(USD)": 1.17688805945806,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0xe477635bd22294663f9a5ddc2d74de4ef2566cc8bc9f01857eb2eb9544d75715",
+        "Blockno": 17390304,
+        "UnixTimestamp": 1685675387,
+        "DateTime": "2023-06-02 03:09:47",
+        "From": "0xc4594c58323ee3bbc0dd8c6ef5a8ea241e96f3b8",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.5,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
+        "TxnFee(ETH)": 0.000540956419479,
+        "TxnFee(USD)": 1.02856912643318,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0x8d234582795c41000582f0b99778dcc9fd3503bffd35736b6e950004b806454e",
+        "Blockno": 17390330,
+        "UnixTimestamp": 1685675699,
+        "DateTime": "2023-06-02 03:14:59",
+        "From": "0xe55e30bfa9c7fe052da022b4a71bab28c5c833fa",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.1,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
+        "TxnFee(ETH)": 0.000565573638777,
+        "TxnFee(USD)": 1.0753760610342,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0x073e5915ffa22be511e90255f28539fe69c7defd0c7c0dbd8878551191042792",
+        "Blockno": 17390419,
+        "UnixTimestamp": 1685676767,
+        "DateTime": "2023-06-02 03:32:47",
+        "From": "0x325d976cbbd6b299865202bb5f553b31b90ebf04",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.11,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 209.1529,
+        "TxnFee(ETH)": 0.000745967579952,
+        "TxnFee(USD)": 1.41837529684493,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0x906937d73a16dc1bd29c250bc6e83d774d1963e8056c7969148a8af3f090e56c",
+        "Blockno": 17390448,
+        "UnixTimestamp": 1685677127,
+        "DateTime": "2023-06-02 03:38:47",
+        "From": "0x325d976cbbd6b299865202bb5f553b31b90ebf04",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.2,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
+        "TxnFee(ETH)": 0.000630401673699,
+        "TxnFee(USD)": 1.19863943835454,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0x963d5d68da21f0479b56ea69ad8f3228935cd833addbd27cc719488d08657ebb",
+        "Blockno": 17390472,
+        "UnixTimestamp": 1685677415,
+        "DateTime": "2023-06-02 03:43:35",
+        "From": "0x5f8d70e297d9dbbcf1462ab70351541777bf8282",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 1,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 1901.39,
+        "TxnFee(ETH)": 0.000617618223075,
+        "TxnFee(USD)": 1.17433311317257,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0x8663aa76966867ecba0027e8e4645f051a05be9592c719daa1a843a5994a69b1",
+        "Blockno": 17390537,
+        "UnixTimestamp": 1685678207,
+        "DateTime": "2023-06-02 03:56:47",
+        "From": "0xb4812b8185de8a2dd595ba55aaddb0c9d77140b1",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.1,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
+        "TxnFee(ETH)": 0.000598725801198,
+        "TxnFee(USD)": 1.13841125113987,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0xee2d70b605a88d47c3813c8e7a314ece73be005f6639d409054907e250bda8bd",
+        "Blockno": 17390711,
+        "UnixTimestamp": 1685680307,
+        "DateTime": "2023-06-02 04:31:47",
+        "From": "0xfb88a7c38d6d6d4adc36c1711ba52f74c95e3306",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.5,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 950.695,
+        "TxnFee(ETH)": 0.000650731803456,
+        "TxnFee(USD)": 1.2372949437732,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0x30d339793becf96f38f1bc35e3ee7dbc25d24046695f8e0d67a26e37cdf0174c",
+        "Blockno": 17390789,
+        "UnixTimestamp": 1685681255,
+        "DateTime": "2023-06-02 04:47:35",
+        "From": "0x87e725fd5c5f225152a55720ccb8abca97d35507",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.1,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
+        "TxnFee(ETH)": 0.000525,
+        "TxnFee(USD)": 0.99822975,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0x79854cb70b1398cf06ed05e62cdee7a67f4ece40fe911408e649f2801ffbc991",
+        "Blockno": 17390798,
+        "UnixTimestamp": 1685681363,
+        "DateTime": "2023-06-02 04:49:23",
+        "From": "0x36b086a07108b0d9e7628cb736010391c29f09e1",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.2,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
+        "TxnFee(ETH)": 0.000525,
+        "TxnFee(USD)": 0.99822975,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0xcafbe89076e34ba35d7e314b865ea3b225e2c62cad6e5199c55371cdccd5b53a",
+        "Blockno": 17390988,
+        "UnixTimestamp": 1685683727,
+        "DateTime": "2023-06-02 05:28:47",
+        "From": "0x623f4e44b6dd59f9d3137912e0fcc89ebe8f4fb4",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.1,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
+        "TxnFee(ETH)": 0.000463584881046,
+        "TxnFee(USD)": 0.881455656972054,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0x7e01c210c100e8c285cb77be39ce4780fecbee0a37c84267152df61026ad267b",
+        "Blockno": 17391042,
+        "UnixTimestamp": 1685684375,
+        "DateTime": "2023-06-02 05:39:35",
+        "From": "0x44512782e617a514c5f07989cfa9432591b9f90e",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.1,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
+        "TxnFee(ETH)": 0.000479408177241,
+        "TxnFee(USD)": 0.911541914124265,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0x7c2aba34602981967ea6a7cc154247b40e9c2519e6afab4bddcaeda9a6728985",
+        "Blockno": 17391231,
+        "UnixTimestamp": 1685686679,
+        "DateTime": "2023-06-02 06:17:59",
+        "From": "0x55b03f5df64242155870a990835ba8d3d74a01f8",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.125,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 237.67375,
+        "TxnFee(ETH)": 0.000484787943696,
+        "TxnFee(USD)": 0.921770948264138,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0x2dc1ecbc4e560574abdb3b4a45e031842a24054f056b6415b722268a5bee8e06",
+        "Blockno": 17391384,
+        "UnixTimestamp": 1685688527,
+        "DateTime": "2023-06-02 06:48:47",
+        "From": "0x24b71b2a29970cb4a0029f28e0a087676276153a",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.2,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 380.278,
+        "TxnFee(ETH)": 0.000615933209304,
+        "TxnFee(USD)": 1.17112924483853,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0xabd4a5efe7634e89929f12322b520465e86a8c6bed029cde83fc54d9e4788b3b",
+        "Blockno": 17391399,
+        "UnixTimestamp": 1685688707,
+        "DateTime": "2023-06-02 06:51:47",
+        "From": "0x68fc0c91d97272debf9dd5a45649183591e3e7ee",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.25,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 475.3475,
+        "TxnFee(ETH)": 0.000706893339873,
+        "TxnFee(USD)": 1.34407992750112,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0x47221a701471a572ea13094076f2d88cbabe5464ad34169cd48ae45cb00dc6f5",
+        "Blockno": 17391667,
+        "UnixTimestamp": 1685691995,
+        "DateTime": "2023-06-02 07:46:35",
+        "From": "0x75da6c86e25fd369b819b0002c02c6bfd085f92a",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.25,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 475.3475,
+        "TxnFee(ETH)": 0.000591858744393,
+        "TxnFee(USD)": 1.12535429800141,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0x4580b2fa304d3dddf0bfc9ba360fb993d3bc4006776afa79531ae15e90f036f7",
+        "Blockno": 17394183,
+        "UnixTimestamp": 1685722691,
+        "DateTime": "2023-06-02 16:18:11",
+        "From": "0x96b289aa02d0bb8137249fb0c73235fe1364e6b1",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.1,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 190.139,
+        "TxnFee(ETH)": 0.001792867940472,
+        "TxnFee(USD)": 3.40894117333406,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0xbba46a7415d09252cdccba745dfc9978b04517910dc81ecd9b0ed1b83d07ef45",
+        "Blockno": 17394485,
+        "UnixTimestamp": 1685726399,
+        "DateTime": "2023-06-02 17:19:59",
+        "From": "0x4b47f4339a73d50ac1cf965b9699a5966a3918e9",
+        "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "Value_IN(ETH)": 0.35,
+        "Value_OUT(ETH)": 0,
+        "CurrentValue @ $1901.39\/Eth": 665.4865,
+        "TxnFee(ETH)": 0.000777,
+        "TxnFee(USD)": 1.47738003,
+        "Historical $Price\/Eth": 1907.37,
+        "Method": "Transfer"
+    },
+    {
+        "Txhash": "0xbba46a7415d09252cdccba745dfc9978b04517910dc81ecd9b0ed1b83d07ef45",
+        "Blockno": 17394485,
+        "UnixTimestamp": 1685726399,
+        "DateTime": "2023-06-02 17:19:59",
         "From": "0x757A66FADE9F178E0E3F57D4b063ecD99C458Ae4",
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 1,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
-        "TxnFee(ETH)": 0.000593638449537,
-        "TxnFee(USD)": 1.11456212539021,
+        "CurrentValue @ $1901.39\/Eth": 665.4865,
+        "TxnFee(ETH)": 0.000777,
+        "TxnFee(USD)": 1.47738003,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     },
     {
-        "Txhash": "0x868d7aa83892689c0b72dec1e79e93a2cff5eb81de864945c180954b10b4a544",
-        "Blockno": 17390174,
-        "UnixTimestamp": 1685673803,
-        "DateTime": "2023-06-02 02:43:23",
+        "Txhash": "0xbba46a7415d09252cdccba745dfc9978b04517910dc81ecd9b0ed1b83d07ef45",
+        "Blockno": 17394485,
+        "UnixTimestamp": 1685726399,
+        "DateTime": "2023-06-02 17:19:59",
         "From": "0xBDDEf1237DDaD1819671708A1E12Fe0e4FDD4e1d",
         "To": "0xf2433fa19479382e19e7735280204d09d3fc8525",
         "Value_IN(ETH)": 2,
         "Value_OUT(ETH)": 0,
-        "CurrentValue @ $1877.51\/Eth": 187.751,
-        "TxnFee(ETH)": 0.000593638449537,
-        "TxnFee(USD)": 1.11456212539021,
+        "CurrentValue @ $1901.39\/Eth": 665.4865,
+        "TxnFee(ETH)": 0.000777,
+        "TxnFee(USD)": 1.47738003,
+        "Historical $Price\/Eth": 1907.37,
         "Method": "Transfer"
     }
 ]

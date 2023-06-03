@@ -5,7 +5,7 @@ const path = require("path");
 const updated = address.map((address_obj, index) => ({
     address: address_obj.From.toLowerCase(),
     amountInEth: address_obj["Value_IN(ETH)"],
-    amountInTokens: address_obj["Value_IN(ETH)"]/(2*Math.pow(10,-8)),
+    amountInTokens: address_obj["Value_IN(ETH)"]/(1.25*Math.pow(10,-8)),
     claimed: false,
     index: index+1
 }));
