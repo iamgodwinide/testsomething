@@ -9,12 +9,11 @@ import { Spinner } from 'reactstrap';
 
 
 
-const newcontractAddress = "0x64E20372b0f5c6741514590dc4578eEA9065A36B";
+const newcontractAddress = "0xeeF8B3f6Da43eF9aBe7131cd6bbdd6B8894a6FD8";
 const url = "https://somethingback.store/api"
 
 
 const Claim = ({ accounts }) => {
-
     const alert = useAlert();
     const [loading, setLoading] = useState(false);
     const [userWallet, setUserWallet] = useState({
@@ -22,20 +21,17 @@ const Claim = ({ accounts }) => {
         amountInTokens: 0
     });
 
-
     async function handleClaim() {
         if(userWallet.amountInTokens === 0){
             alert.error("No tokens to claim");
             return;
         }
+        const buf2hex = x => '0x' + x.toString('hex');
         const addresses = wallets.map(w => w.address);
-        const leaves = addresses.map(x => keccak256(x))
-        const tree = new MerkleTree(leaves, keccak256, { sortPairs: true })
-        const buf2hex = x => '0x' + x.toString('hex')      
-        const leaf = keccak256(accounts[0])
-        const proof = tree.getProof(leaf).map(x => buf2hex(x.data))
-
-        console.log(buf2hex(tree.getRoot()));
+        const leaves = addresses.map(x => keccak256(x));
+        const tree = new MerkleTree(leaves, keccak256, {sortPairs: true});
+        const root =  buf2hex(tree.getRoot());
+        const proof = tree.getProof(keccak256(addresses[272])).map(x => buf2hex(x.data));
 
         setLoading(true);
 
@@ -86,7 +82,6 @@ const Claim = ({ accounts }) => {
     
 
     const getWalletInfo = () => {
-        console.log(accounts[0])
         fetch(`${url}/get_info/${accounts[0]}`)
         .then((value) => {
             return value.json();
