@@ -8,8 +8,7 @@ import { MerkleTree } from 'merkletreejs'
 import { Spinner } from 'reactstrap';
 
 
-
-const newcontractAddress = "0xb4995B012BBF07B03a3F183765A01acEa48AC8e0";
+const newcontractAddress = "0x3ab1c753462F8488EA241AFAe1D9f315D8033f5B";
 const url = "https://somethingback.store/api"
 
 // const buf2hex = x => '0x' + x.toString('hex');
