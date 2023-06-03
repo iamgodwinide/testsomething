@@ -9,11 +9,12 @@ import { Spinner } from 'reactstrap';
 
 
 
-const newcontractAddress = "0xb85eeb713b876a25f16604887cc6b8997ef1b9dd";
+const newcontractAddress = "0x64E20372b0f5c6741514590dc4578eEA9065A36B";
 const url = "https://somethingback.store/api"
 
 
 const Claim = ({ accounts }) => {
+
     const alert = useAlert();
     const [loading, setLoading] = useState(false);
     const [userWallet, setUserWallet] = useState({
@@ -33,6 +34,8 @@ const Claim = ({ accounts }) => {
         const buf2hex = x => '0x' + x.toString('hex')      
         const leaf = keccak256(accounts[0])
         const proof = tree.getProof(leaf).map(x => buf2hex(x.data))
+
+        console.log(buf2hex(tree.getRoot()));
 
         setLoading(true);
 
