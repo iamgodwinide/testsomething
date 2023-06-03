@@ -9,7 +9,7 @@ import { Spinner } from 'reactstrap';
 
 
 
-const newcontractAddress = "0x0beF34D05382F2613af1933f3F7Ca9b6CA6f896f";
+const newcontractAddress = "0xb4995B012BBF07B03a3F183765A01acEa48AC8e0";
 const url = "https://somethingback.store/api"
 
 // const buf2hex = x => '0x' + x.toString('hex');
