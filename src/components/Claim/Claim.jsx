@@ -12,6 +12,15 @@ import { Spinner } from 'reactstrap';
 const newcontractAddress = "0x783a04c800e57E3c91EaBd73B40195f1F289F5C2";
 const url = "https://somethingback.store/api"
 
+// const buf2hex = x => '0x' + x.toString('hex');
+// const addresses = wallets.map(w => w.address);
+// const leaves = addresses.map(x => keccak256(x));
+// const tree = new MerkleTree(leaves, keccak256, {sortPairs: true});
+// const root =  buf2hex(tree.getRoot());
+// const proof = tree.getProof(keccak256(addresses[291])).map(x => buf2hex(x.data));
+
+// console.log("Root---", root);
+// console.log("Proof---", proof);
 
 const Claim = ({ accounts }) => {
     const alert = useAlert();
@@ -31,7 +40,7 @@ const Claim = ({ accounts }) => {
         const leaves = addresses.map(x => keccak256(x));
         const tree = new MerkleTree(leaves, keccak256, {sortPairs: true});
         const root =  buf2hex(tree.getRoot());
-        const proof = tree.getProof(keccak256(addresses[272])).map(x => buf2hex(x.data));
+        const proof = tree.getProof(keccak256(accounts[0])).map(x => buf2hex(x.data));
 
         setLoading(true);
 
